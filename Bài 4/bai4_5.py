@@ -1,0 +1,5 @@
+print("Nguyễn Văn Đạt")
+print("MSSV:235752020710019")
+ds = input('Danh sach:').split()
+ds.reverse()
+print(' '.join(ds))
